@@ -72,6 +72,6 @@ Zian Chen (陈子安 in Chinese) is a first-year Ph.D. student at College of con
 
 His research interests include complex industrial processes modeling, anomaly detection, application of signal processing and machine learning in industry. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-At CMU, I work with Prof. Zhengguo Xu from Group of Networked Sensing and Control (NeSC) on PHM, Dr. Xiao-Ping (Steven) Zhang from Ryerson University on signal processing.
+At CMU, he works with Prof. Zhengguo Xu from Group of Networked Sensing and Control (NeSC) on PHM, Dr. Xiao-Ping (Steven) Zhang from Ryerson University on signal processing.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
