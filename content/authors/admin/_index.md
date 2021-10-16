@@ -68,12 +68,10 @@ email: "zac.chen14@zju.edu.cn"
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zian Chen (陈子安 in Chinese) is a first-year Ph.D. student at College of control science and engineering, Zhejiang University (ZJU). Before purchasing P.h. D degree, he gained my BSc at ZJU.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His research interests include complex industrial processes modeling, anomaly detection, application of signal processing and machine learning in industry. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-
-My name is Zian Chen (赵越 in Chinese). I am a first-year Ph.D. student at College of control science and engineering, Zhejiang University (ZJU). Before purchasing P.h. D degree, I gained my BSc at ZJU.
-
+At CMU, I work with Prof. Zhengguo Xu from Group of Networked Sensing and Control (NeSC) on PHM, Dr. Xiao-Ping (Steven) Zhang from Ryerson University on signal processing.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
